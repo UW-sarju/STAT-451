@@ -3,7 +3,7 @@
 ## Team Members
 - Sarju Patel
 - Xing Yu Ren
-- [Your Name]
+- Carter Lembo
 
 ## Project Overview
 
