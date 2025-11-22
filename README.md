@@ -76,7 +76,7 @@ This comprehensive dataset contains energy performance metrics for buildings req
 3. Facet analysis by building type to control for use-case differences
 4. Identify trends in energy infrastructure adoption over time
 
-###Getting Started
+### Getting Started
 Follow these simple steps to use the Building Energy Benchmarking Dashboard:
 Step 1: Download the Data File
 
