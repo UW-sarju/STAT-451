@@ -80,17 +80,17 @@ This comprehensive dataset contains energy performance metrics for buildings req
 Follow these simple steps to use the Building Energy Benchmarking Dashboard:
 Step 1: Download the Data File
 
-Navigate to the repository on GitHub
-Locate the CSV file: Building_Energy_Benchmarking_Data__2016.csv
-Click on the file to view it
-Click the "Download" button (or "Raw" button, then right-click and "Save As...")
-Save the CSV file to your local computer
+- Navigate to the repository on GitHub
+- Locate the CSV file: Building_Energy_Benchmarking_Data__2016.csv
+- Click on the file to view it
+- Click the "Download" button (or "Raw" button, then right-click and "Save As...")
+- Save the CSV file to your local computer
 
 Step 2: Run the Dashboard
 
-Download the Dashboard.R file from the repository
-Open Dashboard.R in RStudio (or your preferred R environment)
-Make sure you have the required R packages installed (see Prerequisites below)
-Update the file path in the code to point to where you saved the CSV file
-Run the application by clicking "Run App" in RStudio or executing the script
+- Download the Dashboard.R file from the repository
+- Open Dashboard.R in RStudio (or your preferred R environment)
+- Make sure you have the required R packages installed (see Prerequisites below)
+- Update the file path in the code to point to where you saved the CSV file
+- Run the application by clicking "Run App" in RStudio or executing the script
 
